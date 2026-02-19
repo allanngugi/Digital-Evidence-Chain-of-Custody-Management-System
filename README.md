@@ -73,6 +73,27 @@ Each custody record contains a cryptographic hash referencing the previous recor
 
 ## 📸 Screenshots
 
+### Login
+![Login](screenshots/login-page.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Officer Dashboard
+![Officer Dashboard](screenshots/officer-dashboard.png)
+
+### Analyst Dashboard
+![Analyst](screenshots/analyst-dashboard.png)
+
+### Court Presentation
+![Court Presentation](screenshots/court-presentation-dashboard.png)
+
+### MongoDB Collection
+![MongoDB Collection](screenshots/mongodb-collections.png)
+
+### MongoDB Performance Metrics
+![MongoDB Performance Metrics](screenshots/mongodb-performance-metrics.png)
+
 
 
 ## 📚 Documentation
@@ -89,19 +110,6 @@ The full implementation is available in the `source-code` directory:
 
 ---
 
-## 📚 Documentation
-Full academic project documentation is available here:
-
-- [Final Project Report](docs/DECCMS_FINAL_DOCUMENTATION.pdf)
-
----
-
-## 💻 Source Code
-The full implementation is available in the `source-code` directory:
-
-👉 [View Source Code](source-code/)
-
----
 ## 👥 Project Team
 Developed as part of the Applied Information Technology program at
 United States International University – Africa (USIU-A)

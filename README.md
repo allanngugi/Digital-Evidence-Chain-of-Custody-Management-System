@@ -99,7 +99,7 @@ Each custody record contains a cryptographic hash referencing the previous recor
 ## 📚 Documentation
 Full academic project documentation is available here:
 
-- [Final Project Report](docs/DECCMS_FINAL_DOCUMENTATION.pdf)
+- [View Final Project Report](docs/DECCMS%20FINAL%20DOCUMENTATION.pdf)
 
 ---
 

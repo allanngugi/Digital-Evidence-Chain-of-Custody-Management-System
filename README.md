@@ -74,7 +74,7 @@ Each custody record contains a cryptographic hash referencing the previous recor
 ## 📸 Screenshots
 
 ### Login
-![Login](screenshots/login-page.png)
+![Login](screenshots/login-page.jpg)
 
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.jpg)

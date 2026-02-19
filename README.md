@@ -77,22 +77,22 @@ Each custody record contains a cryptographic hash referencing the previous recor
 ![Login](screenshots/login-page.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin-dashboard.jpg)
 
 ### Officer Dashboard
-![Officer Dashboard](screenshots/officer-dashboard.png)
+![Officer Dashboard](screenshots/officer-dashboard.jpg)
 
 ### Analyst Dashboard
-![Analyst](screenshots/analyst-dashboard.png)
+![Analyst](screenshots/analyst-dashboard.jpg)
 
 ### Court Presentation
-![Court Presentation](screenshots/court-presentation-dashboard.png)
+![Court Presentation](screenshots/court-presentation-dashboard.jpg)
 
 ### MongoDB Collection
-![MongoDB Collection](screenshots/mongodb-collections.png)
+![MongoDB Collection](screenshots/mongodb-collections.jpg)
 
 ### MongoDB Performance Metrics
-![MongoDB Performance Metrics](screenshots/mongodb-performance-metrics.png)
+![MongoDB Performance Metrics](screenshots/mongodb-performance-metrics.jpg)
 
 
 
